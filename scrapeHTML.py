@@ -1,3 +1,13 @@
+#!/usr/bin/env python
+
+'''
+    File name: scrapeHTML.py
+    Author: Daniel Story
+    Date created: 12/03/2018
+    Date last modified: 2/12/2019
+    Python Version: 2.7, 3
+'''
+
 import urllib.request
 from bs4 import BeautifulSoup
 from datetime import datetime
